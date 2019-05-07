@@ -1,0 +1,9 @@
+1;matematica;6.0
+2;romana;9.0
+1;germana;3.0
+1;romana;4.0
+2;matematica;8.0
+2;germana;4.0
+3;matematica;6.0
+3;romana;4.0
+3;germana;3.0
